@@ -21,7 +21,7 @@ window.CARS = [
     "image": "assets/img/cars/renault-clio.webp",
     "body": "hatchback",
     "segment": "ekonomik",
-    "price": 850,
+    "price": 1050,
     "deposit": 4200,
     "features": [
       "CarPlay",
@@ -37,7 +37,7 @@ window.CARS = [
     "image": "assets/img/cars/hyundai-i20.webp",
     "body": "hatchback",
     "segment": "ekonomik",
-    "price": 850,
+    "price": 1050,
     "deposit": 4200,
     "features": [
       "Geri görüş kamerası",
@@ -53,7 +53,7 @@ window.CARS = [
     "image": "assets/img/cars/toyota-yaris.webp",
     "body": "hatchback",
     "segment": "ekonomik",
-    "price": 850,
+    "price": 1050,
     "deposit": 4300,
     "features": [
       "Adaptif hız sabitleyici",
@@ -69,7 +69,7 @@ window.CARS = [
     "image": "assets/img/cars/ford-fiesta.webp",
     "body": "hatchback",
     "segment": "ekonomik",
-    "price": 850,
+    "price": 1050,
     "deposit": 4300,
     "features": [
       "Park sensörü",
@@ -85,7 +85,7 @@ window.CARS = [
     "image": "assets/img/cars/skoda-fabia.webp",
     "body": "hatchback",
     "segment": "ekonomik",
-    "price": 900,
+    "price": 1150,
     "deposit": 4400,
     "features": [
       "LED far",
@@ -101,7 +101,7 @@ window.CARS = [
     "image": "assets/img/cars/vw-polo.webp",
     "body": "hatchback",
     "segment": "ekonomik",
-    "price": 1000,
+    "price": 1200,
     "deposit": 4400,
     "features": [
       "Dijital klima",
@@ -117,7 +117,7 @@ window.CARS = [
     "image": "assets/img/cars/renault-taliant.webp",
     "body": "sedan",
     "segment": "ekonomik",
-    "price": 900,
+    "price": 1150,
     "deposit": 4500,
     "features": [
       "Yakıt ekonomisi",
@@ -133,7 +133,7 @@ window.CARS = [
     "image": "assets/img/cars/Fiat-egea.webp",
     "body": "sedan",
     "segment": "ekonomik",
-    "price": 950,
+    "price": 1150,
     "deposit": 4500,
     "features": [
       "Dokunmatik ekran",
@@ -149,7 +149,7 @@ window.CARS = [
     "image": "assets/img/cars/honda-city.webp",
     "body": "sedan",
     "segment": "ekonomik",
-    "price": 950,
+    "price": 1150,
     "deposit": 4600,
     "features": [
       "Şerit destek",
@@ -165,7 +165,7 @@ window.CARS = [
     "image": "assets/img/cars/hyundai-accent.webp",
     "body": "sedan",
     "segment": "ekonomik",
-    "price": 1000,
+    "price": 1200,
     "deposit": 4600,
     "features": [
       "ABS",
@@ -197,7 +197,7 @@ window.CARS = [
     "image": "assets/img/cars/ford-focus.webp",
     "body": "hatchback",
     "segment": "ortasegment",
-    "price": 1200,
+    "price": 1300,
     "deposit": 4700,
     "features": [
       "Şerit takip",
@@ -213,7 +213,7 @@ window.CARS = [
     "image": "assets/img/cars/renault-megane-hactback.webp",
     "body": "hatchback",
     "segment": "ortasegment",
-    "price": 1000,
+    "price": 1200,
     "deposit": 4800,
     "features": [
       "Dijital gösterge",
@@ -229,7 +229,7 @@ window.CARS = [
     "image": "assets/img/cars/vw-Golf.webp",
     "body": "hatchback",
     "segment": "ortasegment",
-    "price": 1400,
+    "price": 1550,
     "deposit": 4800,
     "features": [
       "Adaptive Cruise Control",
@@ -245,7 +245,7 @@ window.CARS = [
     "image": "assets/img/cars/honda-civic.webp",
     "body": "sedan",
     "segment": "ortasegment",
-    "price": 1300,
+    "price": 1500,
     "deposit": 4900,
     "features": [
       "Sunroof",
@@ -261,7 +261,7 @@ window.CARS = [
     "image": "assets/img/cars/toyota-corolla-hybrid.webp",
     "body": "sedan",
     "segment": "ortasegment",
-    "price": 1300,
+    "price": 1500,
     "deposit": 4900,
     "features": [
       "Hibrit sürüş",
@@ -277,7 +277,7 @@ window.CARS = [
     "image": "assets/img/cars/Renault-megane.webp",
     "body": "sedan",
     "segment": "ortasegment",
-    "price": 1000,
+    "price": 1200,
     "deposit": 5000,
     "features": [
       "Geniş bagaj",
@@ -293,7 +293,7 @@ window.CARS = [
     "image": "assets/img/cars/hyundai-elantra.webp",
     "body": "sedan",
     "segment": "ortasegment",
-    "price": 1200,
+    "price": 1300,
     "deposit": 5000,
     "features": [
       "Anahtarsız giriş",
@@ -389,7 +389,7 @@ window.CARS = [
     "image": "assets/img/cars/mercedes-cla200.webp",
     "body": "sedan",
     "segment": "luks",
-    "price": 2000,
+    "price": 2700,
     "deposit": 5400,
     "features": [
       "MBUX ekran",
@@ -485,7 +485,7 @@ window.CARS = [
     "image": "assets/img/cars/Tesla.webp",
     "body": "sedan",
     "segment": "luks",
-    "price": 2000,
+    "price": 2300,
     "deposit": 6000,
     "features": [
       "Otopilot",
@@ -501,7 +501,7 @@ window.CARS = [
     "image": "assets/img/cars/porche-taycan.webp",
     "body": "sedan",
     "segment": "luks",
-    "price": 4000,
+    "price": 6700,
     "deposit": 7000,
     "features": [
       "Launch control",
@@ -517,7 +517,7 @@ window.CARS = [
     "image": "assets/img/cars/ford-puma.webp",
     "body": "suv",
     "segment": "ortasegment",
-    "price": 1200,
+    "price": 1300,
     "deposit": 5400,
     "features": [
       "Büyük bagaj",
@@ -549,7 +549,7 @@ window.CARS = [
     "image": "assets/img/cars/chery-omoda5.webp",
     "body": "suv",
     "segment": "ortasegment",
-    "price": 1400,
+    "price": 1550,
     "deposit": 5500,
     "features": [
       "360 kamera",
@@ -661,7 +661,7 @@ window.CARS = [
     "image": "assets/img/cars/range-rover-velar.webp",
     "body": "suv",
     "segment": "luks",
-    "price": 2800,
+    "price": 4700,
     "deposit": 6500,
     "features": [
       "Meridian ses sistemi",
@@ -677,7 +677,7 @@ window.CARS = [
     "image": "assets/img/cars/range-rover-sport.webp",
     "body": "suv",
     "segment": "luks",
-    "price": 3000,
+    "price": 4700,
     "deposit": 6800,
     "features": [
       "Hava süspansiyon",
@@ -709,7 +709,7 @@ window.CARS = [
     "image": "assets/img/cars/ford-courrier.webp",
     "body": "panelvan",
     "segment": "ekonomik",
-    "price": 1000,
+    "price": 1200,
     "deposit": 4700,
     "features": [
       "Kayar kapı",
@@ -725,7 +725,7 @@ window.CARS = [
     "image": "assets/img/cars/fiat-doblo.webp",
     "body": "panelvan",
     "segment": "ekonomik",
-    "price": 1000,
+    "price": 1200,
     "deposit": 4800,
     "features": [
       "Çift sürgülü kapı",
@@ -741,7 +741,7 @@ window.CARS = [
     "image": "assets/img/cars/renault-express.webp",
     "body": "panelvan",
     "segment": "ekonomik",
-    "price": 900,
+    "price": 1150,
     "deposit": 4800,
     "features": [
       "Yük sabitleme kancası",
@@ -757,7 +757,7 @@ window.CARS = [
     "image": "assets/img/cars/vw-caddy.webp",
     "body": "panelvan",
     "segment": "ortasegment",
-    "price": 1400,
+    "price": 1550,
     "deposit": 5000,
     "features": [
       "Arka kamera",
@@ -837,7 +837,7 @@ window.CARS = [
     "image": "assets/img/cars/vw-trock.webp",
     "body": "suv",
     "segment": "ortasegment",
-    "price": 1300,
+    "price": 1500,
     "deposit": 5600,
     "features": [
       "Dijital kokpit",

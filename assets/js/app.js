@@ -52,9 +52,12 @@ function renderCars() {
   resultCount.textContent = `${cars.length} araç listeleniyor`;
 
   grid.innerHTML = cars.map(car => `
-    <article class="card">
+    <article class="card card-bayram">
       <div class="card-inner">
         <div class="card-media">
+          <div class="bayram-badge" aria-label="Bayrama özel">Bayrama Özel</div>
+          <div class="confetti confetti-left" aria-hidden="true"></div>
+          <div class="confetti confetti-right" aria-hidden="true"></div>
           <img class="car-photo" src="${car.image}" alt="${car.name}" loading="lazy" decoding="async">
         </div>
 
