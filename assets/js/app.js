@@ -56,8 +56,8 @@ function renderCars() {
       <div class="card-inner">
         <div class="card-media">
           <div class="promo-badges" aria-label="Kampanya bilgisi">
-            <span class="promo-badge promo-left">Sınırsız Km</span>
-            <span class="promo-badge promo-right">Avis</span>
+            <span class="promo-badge promo-left">Bayrama Özel</span>
+            <span class="promo-badge promo-right">%35’e Varan İndirim</span>
           </div>
           <img class="car-photo" src="${car.image}" alt="${car.name}" loading="lazy" decoding="async">
         </div>
@@ -88,7 +88,7 @@ function renderCars() {
 
         <div class="cta-row">
           <a class="btn btn-primary" href="tel:+${SITE_CONFIG.phoneRaw}">Hemen Ara</a>
-          <a class="btn btn-outline" href="${waLinkForCar(car.name)}" target="_blank" rel="noopener">WhatsApp</a>
+          <a class="btn btn-whatsapp" href="${waLinkForCar(car.name)}" target="_blank" rel="noopener">WhatsApp</a>
         </div>
       </div>
     </article>
